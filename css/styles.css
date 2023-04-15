@@ -790,7 +790,7 @@ body {
     letter-spacing: 0.04em;
     color: #8E8F99;
 }
-.modal-form-check-des > .label-link {
+.label-link {
     color: #4D5AE5;
 }
 .modal-form-check-desc::before {
